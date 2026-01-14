@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main (String{} args) {
-        // Shout "Hello, World"
+        // Welcome message "Hello, World"
         System.out.println("Hello, World!")
     }
 }
